@@ -8,5 +8,5 @@
 <a href="https://linkedin.com/in/therealilyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="therealilyas" height="30" width="40" /></a>
 </p>
 <br>
-<div><div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealilyas&show_icons=true&locale=en" alt="therealilyas" /><div>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealilyas&" alt="therealilyas" /></div></div>
+<div><div><img src="https://github-readme-stats.vercel.app/api?username=therealilyas&show_icons=true&locale=en" alt="therealilyas" /><div>
+<div><img  src="https://github-readme-streak-stats.herokuapp.com/?user=therealilyas&" alt="therealilyas" /></div></div>
