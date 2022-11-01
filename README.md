@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealilyas&label=Profile%20views&color=0e75b6&style=flat" alt="therealilyas" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://linkedin.com/in/therealilyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="therealilyas" height="30" width="40" /></a>
 </p>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealilyas&show_icons=true&locale=en" alt="therealilyas" /><div>
 
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealilyas&show_icons=true&locale=en" alt="therealilyas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealilyas&" alt="therealilyas" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealilyas&" alt="therealilyas" /></div>
 
