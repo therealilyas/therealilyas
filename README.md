@@ -9,7 +9,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/therealilyas/therealilyas/output/github-contribution-grid-snake.svg">
 </picture>  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
 
 [![Listen on Spotify](https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq?si=a1a852efb1fa49c3)
@@ -25,6 +24,7 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=therealilyas&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=therealilyas&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
