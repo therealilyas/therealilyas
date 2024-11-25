@@ -15,6 +15,9 @@
 
 [![Listen on Spotify](https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq?si=a1a852efb1fa49c3)
 
+![](https://komarev.com/ghpvc/?username=therealilyas&color=brightgreen)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=therealilyas&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
 <a href="https://github.com/therealilyas/github-readme-stats#gh-dark-mode-only">
@@ -32,5 +35,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=therealilyas&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=therealilyas&color=brightgreen)
 </div>
