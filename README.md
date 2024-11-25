@@ -21,6 +21,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
 </picture>  
 
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq?si=a1a852efb1fa49c3)
+
+
 [![Now Playing](https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq?si=a1a852efb1fa49c3)  
 
 
