@@ -1,8 +1,10 @@
 <div align="center">
 
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
 
----
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therealilyas/therealilyas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therealilyas/therealilyas/output/github-contribution-grid-snake.svg">
@@ -12,6 +14,7 @@
 
 
 [![Listen on Spotify](https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq?si=a1a852efb1fa49c3)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=therealilyas&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
 <a href="https://github.com/therealilyas/github-readme-stats#gh-dark-mode-only">
