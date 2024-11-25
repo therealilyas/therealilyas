@@ -6,16 +6,16 @@
 [![Listen on Spotify](https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq?si=a1a852efb1fa49c3)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=therealilyas&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
 <a href="https://github.com/therealilyas/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=gotham#gh-dark-mode-only" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=therealilyas&show_icons=true&theme=gotham#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/therealilyas/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealilyas&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/therealilyas/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=therealilyas&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
 <picture>
