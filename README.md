@@ -21,19 +21,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
 </picture>  
 
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=huiishan99&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
-
+![](https://komarev.com/ghpvc/?username=therealilyas&color=brightgreen)
 </div>
 
-------
-Credit: [huiishan99](https://github.com/huiishan99)
 
-Last Edited on: 23/06/2024
