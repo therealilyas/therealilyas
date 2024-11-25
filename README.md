@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
 
 
+[![Listen on Spotify](https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq?si=a1a852efb1fa49c3)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -20,11 +23,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
 </picture>  
-
-[![Listen on Spotify](https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq?si=a1a852efb1fa49c3)
-
-
-[![Now Playing](https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq?si=a1a852efb1fa49c3)  
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
