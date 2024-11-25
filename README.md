@@ -14,9 +14,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
