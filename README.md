@@ -24,8 +24,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/therealilyas/therealilyas/output/github-contribution-grid-snake.svg">
 </picture>  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" alt="Coding Animation">
-[![trophy](https://github-profile-trophy.vercel.app/?username=therealilyas&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=therealilyas&color=brightgreen)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=therealilyas&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=therealilyas&color=brightgreen)
 </div>
