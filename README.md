@@ -23,6 +23,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=therealilyas&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=therealilyas&theme=gruvbox&row=1&column=5)](https://github.com/therealilyas)
 
 </div>
