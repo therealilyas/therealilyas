@@ -2,4 +2,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealilyas&layout=donut-vertical)](https://github.com/therealilyas/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=therealilyas)](https://github.com/therealilyas/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/therealilyas/github-readme-stats)
