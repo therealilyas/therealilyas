@@ -1,5 +1,5 @@
 
-<b><summary>🏆 Notable Projects:</summary><b>
+#🏆 Notable Projects:
   <br>
   <table width="100%">
     <tr>
