@@ -1,5 +1,5 @@
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
+📊 **this week i spent my time on:*
 
 ```txt
 TypeScript   5 hrs 47 mins   ██████████████████▒░░░░░░   73.66 %
@@ -8,15 +8,7 @@ JSON         18 mins         █░░░░░░░░░░░░░░░░
 Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
+-->
 
 📈 my github stats
 
