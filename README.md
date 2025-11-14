@@ -15,7 +15,7 @@
       <td>Developed a modern, responsive English-language center website, improving student enrollment and online course engagement. Achieved ~2,500+ active monthly users and increased online course registrations by ~35% within the first 3 months after launch.</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/therealilyas/bash-samurai">⚙️Bash Samurai – Bash Documentation (Uzbek Language) | GitHub | Client Project</a></td>
+      <td><a href="https://github.com/therealilyas/bash-samurai">⚙️Bash Samurai – Bash Documentation (Uzbek Language)</a></td>
       <td>O‘zbek tilida Bashni o‘rganish uchun to‘liq qo‘llanma: 0 darajadan boshlab amaliy misollar, mashqlar va cheat sheetlar bilan.</td>
     </tr>
   </table>
