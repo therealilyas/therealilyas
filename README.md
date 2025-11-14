@@ -1,6 +1,6 @@
+<h1>🏆 Notable Projects:</h1>
 
-#🏆 Notable Projects:
-  <br>
+<br>
   <table width="100%">
     <tr>
       <th>Project</th>
