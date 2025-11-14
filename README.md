@@ -1,5 +1,5 @@
 
-<details><summary>🏆 Notable Projects:</summary>
+<b><summary>🏆 Notable Projects:</summary><b>
   <br>
   <table width="100%">
     <tr>
@@ -19,7 +19,7 @@
       <td>O‘zbek tilida Bashni o‘rganish uchun to‘liq qo‘llanma: 0 darajadan boshlab amaliy misollar, mashqlar va cheat sheetlar bilan.</td>
     </tr>
   </table>
-</details>
+
 
 <br>
 
