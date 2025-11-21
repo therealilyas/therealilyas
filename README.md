@@ -23,7 +23,7 @@
 
 <!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
 <!-- ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) -->
-![3D Contribution Graph]!(./profile-3d-contrib/profile-green-animate.svg)
+[3D Contribution Graph]!(./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
  <picture>
