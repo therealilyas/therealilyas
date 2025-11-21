@@ -6,21 +6,11 @@
 </a>
 </p>
 
----
-
-<table width="100%" align="center">
-<tr>
-<td>
+<p align="center">
+<a href="https://github.com/therealilyas">  
   <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealilyas&theme=radical" alt="Profile Summary">
-</td>
-</tr>
-</table>
-
----
-
-## 💫 🌟BEST SKILLS
-
-![Views](https://komarev.com/ghpvc/?username=therealilyas&label=views&color=blue&style=flat)
+</a>
+</p>
 
 <p align="center">
 <table align="center">
