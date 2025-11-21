@@ -1,23 +1,4 @@
-<h1>🏆 Notable Projects:</h1>
 
-<br>
-  <table width="100%">
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/therealilyas/pentest-toolkit">🛡️ PentestKit</a></td>
-      <td>Advanced penetration testing toolkit in Python & Bash for ethical hackers and security professionals. Automates reconnaissance, vulnerability scanning, and reporting.</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/therealilyas/bash-samurai">⚙️Bash Samurai – Bash Documentation (Uzbek Language)</a></td>
-      <td>O‘zbek tilida Bashni o‘rganish uchun to‘liq qo‘llanma: 0 darajadan boshlab amaliy misollar, mashqlar va cheat sheetlar bilan.</td>
-    </tr>
-  </table>
-
-
-<br>
 
 <table width="100%" align="center">
 <tr>
@@ -34,6 +15,30 @@
 </table>
 
 
+---
+
+### 📈 **GitHub Analytics**
+
+---
+
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) -->
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-green.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season-animate.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season-animate.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season.svg) -->
+
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
