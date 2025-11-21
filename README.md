@@ -23,14 +23,7 @@
 
 <!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
 <!-- ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) -->
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-green.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season-animate.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season-animate.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season.svg) -->
+![3D Contribution Graph]!(./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
  <picture>
