@@ -1,4 +1,12 @@
 
+<p align="center">
+<a href="https://github.com/JudeWine">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudeWine&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JudeWine&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
+
+---
 
 <table width="100%" align="center">
 <tr>
@@ -16,14 +24,6 @@
 
 
 ---
-
-### 📈 **GitHub Analytics**
-
----
-
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) -->
-[3D Contribution Graph]!(./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
  <picture>
