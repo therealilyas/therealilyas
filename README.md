@@ -1,8 +1,8 @@
 
 <p align="center">
-<a href="https://github.com/JudeWine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudeWine&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JudeWine&layout=compact&langs_count=8&theme=midnight-purple"/>
+<a href="https://github.com/therealilyas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therealilyas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=therealilyas&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
@@ -14,12 +14,6 @@
   <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealilyas&theme=radical" alt="Profile Summary">
 </td>
 </tr>
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=therealilyas&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</td>
-</tr>
-<br>
 </table>
 
 
